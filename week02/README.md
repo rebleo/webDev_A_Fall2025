@@ -1,7 +1,5 @@
-##### and so forth...
-
-
-#### File Paths continued
+#### LINKS
+* [<link> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link)
 * [Absolute vs. Relative](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
 
 
