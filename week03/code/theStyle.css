@@ -1,0 +1,30 @@
+body {
+    background-color: pink;
+    /* what font on the google font api best matches rand's design?
+    how can you find it? */
+}
+
+main{
+    background-color: lightgreen;
+    display: flex;
+    border: 3px solid;
+    
+}
+
+div {
+    background-color: blue;
+    padding: 3vw;
+    margin: 3vw;
+    font-size: 20vw;
+
+}
+#theBackward{
+    transform: rotate(90deg);
+    color: rgb(255,255,255)
+}
+
+
+
+p {
+    background-color: rgb(255,255,255,.5)
+}

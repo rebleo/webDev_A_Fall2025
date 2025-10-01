@@ -1,5 +1,9 @@
 h1 {
-    color: #FF4500
+    color: #FF4500;
+    /* https://fonts.google.com/selection/embed */
+    font-family: "Alan Sans", sans-serif;
+    text-align: center;
+    font-size: 25vw;
 }
 
 body {

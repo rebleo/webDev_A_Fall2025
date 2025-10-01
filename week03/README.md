@@ -1,10 +1,22 @@
-##### [Chrome Dev Tools Console Ref](https://developers.google.com/web/tools/chrome-devtools/console/reference)
+##### Wednesday October 1st in class exercise
+Using the starter code provided, either on your own or in pairs try your best to recreate the Paul Rand designs. Make sure to reference the positioning documentatino below.
 
-![theBoxModel](boxModel.png)
+![Rand Challenge](code/rand.png)
+##### Pre-responsive CSS positioning
+* [MDN on positioning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Positioning)
+* [CSS Tricks on Positioning](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
+
+***
+
+
 #### [the Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 * [MDN on padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
 * [MDN on border](https://developer.mozilla.org/en-US/docs/Web/CSS/border) 
 * [MDN on margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
+
+![theBoxModel](boxModel.png)
+
+***
 
 ##### Flexbox Display
 * [MDN Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
