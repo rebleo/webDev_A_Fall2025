@@ -1,5 +1,5 @@
 ##### More Design
-##### [The Medium is the Mass Age]
+##### The Medium is the Mass Age
 ![mculuhan](See_Hear.png)
 
 
