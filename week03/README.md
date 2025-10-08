@@ -1,5 +1,5 @@
 ##### Wednesday October 1st in class exercise
-Using the starter code provided, either on your own or in pairs try your best to recreate the Paul Rand designs. Make sure to reference the positioning documentatino below.
+Using the starter code provided, either on your own or in pairs try your best to recreate the Paul Rand designs. Make sure to reference the positioning documentation below. And feel free to make the content, color, etc. your own!!
 
 ![Rand Challenge](code/rand.png)
 ##### Pre-responsive CSS positioning
