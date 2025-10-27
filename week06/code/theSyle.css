@@ -12,4 +12,14 @@ main {
 button {
     border-radius: 40px;
     margin: 50px;
+    background-color: green;
+}
+button:hover{
+background-color: yellow;
+}
+
+canvas {
+    width: 400px;
+    height:500px;
+    background-color: green;
 }
