@@ -6,7 +6,7 @@
 * Bookmark or take note of at least three projects that interest you.
 
 ##### In class presentations are due Monday November 10th
-With your group, choose 1 artwork from either the [Rhizome's net.art Anthology](https://anthology.rhizome.org/) to present to the class in a 5-7  minute presentation. Students should share a brief introduction to the artist(s), an explaination of the work and most imporatntly their thoughts on the expirence of the **interactive artwork.**
+With your group, choose 1 artwork from the [Rhizome's net.art Anthology](https://anthology.rhizome.org/) to present to the class in a 5-7  minute presentation. Students should share a brief introduction to the artist(s), an explaination of the work and most imporatntly their thoughts on the expirence of the **interactive artwork.**
 * You MUST create your [slide deck](https://www.google.com/search?q=slide+deck&oq=slide+deck&aqs=chrome..69i57j0l9.3609j0j7&sourceid=chrome&ie=UTF-8) using HTML, CSS + JavaSCript. Each slide should be a relative link to another html page or a more sophisticated programatic system if you choose. Use an external styling sheet to keep the styling of your presentation uniform. 
 * Your slide deck website must include:
   * A clear wireframe and plan for execution
@@ -19,7 +19,7 @@ With your group, choose 1 artwork from either the [Rhizome's net.art Anthology](
 * Please considger making the presentation interactive & inspired by the work you reserached - that's even better!
 
 #### For class on Wednesday:
-Research which artwork you would like to present. Discuss with your partners and once you decide post a link to the work by your names [here]() - link forthcomming. **You can not do an artwork that has been posted by another group!!** 
+Research which artwork you would like to present. Discuss with your partners and once you decide post a link to the work by your names [here](https://github.com/rebleo/webDev_A_Fall2025/wiki/Week-08#groups) - link forthcomming. **You can not do an artwork that has been posted by another group!!** 
 
 
 #### Assignment for Wed
