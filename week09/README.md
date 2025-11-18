@@ -1,2 +1,2 @@
-![The Sociall Dilemma](Social_Dilemma.jpg)
+![The Social Dilemma](Social_Dilemma.jpg) - 2020
 

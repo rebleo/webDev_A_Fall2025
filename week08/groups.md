@@ -6,7 +6,6 @@
     <li> Isabel & Kyona</li>
     <li> Charles, Irene & Phoebus </li>
     <li> Alex, Quinn & Owen</li>
-    <li></li>
 </ol>
 
 
